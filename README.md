@@ -5,4 +5,9 @@ this is a demo for git
 - Creation / update
 - Checks
 - Stage / commit
-
+- push
+- merge
+- modify
+  - revert
+  - rebase
+  - reset
